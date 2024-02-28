@@ -6,13 +6,6 @@ st.markdown("##  2️⃣: Finance")
 
 st.markdown("---")
 
-# st.markdown("""
-# We suggest watching videos in the same order as in this document.
-
-# The last video (setting up the environment) is optional, but you can check it earlier 
-# if you have troubles setting up the environment and following along with the videos.
-# """)
-
 st.markdown("### Princes of the Yen | Documentary Film")
 
 st.video("https://www.youtube.com/embed/p5Ac7ap_MAY?rel=0")
